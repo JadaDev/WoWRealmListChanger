@@ -1,16 +1,15 @@
-## WoW Realmlist Changer (Up to date)
+## WoW RealmList Changer (Up to date)
 | Current Status | Issues Open | Current Version | Commits Since | New Downloads |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [![Build Status](https://travis-ci.com/TrinityItemCreator/TrinityItemCreator.svg?branch=master)](https://travis-ci.com/TrinityItemCreator/TrinityItemCreator) | [![GitHub issues](https://img.shields.io/github/issues/TrinityItemCreator/TrinityItemCreator.svg)](https://github.com/TrinityItemCreator/TrinityItemCreator/issues?q=is%3Aopen+is%3Aissue) | ![GitHub release](https://img.shields.io/github/release/TrinityItemCreator/TrinityItemCreator.svg) | ![GitHub commits (since latest release)](https://img.shields.io/github/commits-since/TrinityItemCreator/TrinityItemCreator/latest.svg) | [![Github All Releases](https://img.shields.io/github/downloads/TrinityItemCreator/TrinityItemCreator/latest/total.svg)](https://github.com/TrinityItemCreator/TrinityItemCreator/releases) |
+| [![Build Status](https://travis-ci.com/TrinityItemCreator/TrinityItemCreator.svg?branch=master)](https://travis-ci.com/SuperDevRealm/WoWRealmListChanger) | [![GitHub issues](https://img.shields.io/github/issues/SuperDevRealm/WoWRealmListChanger.svg)](https://github.com/SuperDevRealm/WoWRealmListChanger/issues?q=is%3Aopen+is%3Aissue) | ![GitHub release](https://img.shields.io/github/release/SuperDevRealm/WoWRealmListChanger.svg) | ![GitHub commits (since latest release)](https://img.shields.io/github/commits-since/SuperDevRealm/WoWRealmListChanger/latest.svg) | [![Github All Releases](https://img.shields.io/github/downloads/SuperDevRealm/WoWRealmListChanger/latest/total.svg)](https://github.com/SuperDevRealm/WoWRealmListChanger/releases) |
 
 ### Functionality
-- [x] Import to database
-- [x] Item.dbc Maker
-- [x] Export item as *.SQL or Copy to Clipboard
-- [x] Export setting for sql prefix `insert` or `replace`
-- [x] Load default or custom template
-- [x] Save custom templates
-- [x] DisplayID Finder
-- [x] Stats Generator
+- [x] Add Servers
+- [x] Remove Servers one by one
+- [x] Modify Server details
+- [x] Auto Clear Cache option
+- [x] Auto Fill Account option
 
-![Trinity Item Creator 2.x](https://image.ibb.co/mgpK9U/Screenshot_1.jpg)
+![WRLC-1](https://github.com/SuperDevRealm/WoWRealmListChanger/blob/master/screenshots/wrlc-1.JPG?raw=true)
+
+![WRLC-1](https://github.com/SuperDevRealm/WoWRealmListChanger/blob/master/screenshots/wrlc-2.JPG?raw=true)
