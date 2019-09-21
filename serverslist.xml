@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servers>
+  <Server name="Your first server" cache="True" fill="false">
+    <Realmlist>127.0.0.1</Realmlist>
+    <Account></Account>
+    <WoWPath>Select your World of Warcraft folder</WoWPath>
+  </Server>
+</Servers>

@@ -1,0 +1,12 @@
+E:\visual studio repos\MultiWoWLauncher\bin\Debug\MultiWoWLauncher.exe.config
+E:\visual studio repos\MultiWoWLauncher\bin\Debug\MultiWoWLauncher.exe
+E:\visual studio repos\MultiWoWLauncher\bin\Debug\MultiWoWLauncher.pdb
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.csprojAssemblyReference.cache
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.Properties.Resources.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.csproj.GenerateResource.cache
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.csproj.CoreCompileInputs.cache
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.exe
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.pdb
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.MultiWoWLauncher.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.UserControlServersList.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Debug\MultiWoWLauncher.UserControlEditServer.resources

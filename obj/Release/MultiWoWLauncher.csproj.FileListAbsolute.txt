@@ -1,0 +1,7 @@
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.CMessageBox.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.MultiWoWLauncher.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.Properties.Resources.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.UserControlEditServer.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.UserControlServersList.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.csproj.GenerateResource.cache
+E:\visual studio repos\MultiWoWLauncher\obj\Release\MultiWoWLauncher.csproj.CoreCompileInputs.cache

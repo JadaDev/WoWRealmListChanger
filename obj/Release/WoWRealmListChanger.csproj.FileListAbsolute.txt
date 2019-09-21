@@ -1,0 +1,12 @@
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.Properties.Resources.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.csproj.GenerateResource.cache
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.csproj.CoreCompileInputs.cache
+E:\visual studio repos\MultiWoWLauncher\bin\Release\WoWRealmListChanger.exe.config
+E:\visual studio repos\MultiWoWLauncher\bin\Release\WoWRealmListChanger.exe
+E:\visual studio repos\MultiWoWLauncher\bin\Release\WoWRealmListChanger.pdb
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.CMessageBox.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.WoWRealmListChanger.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.UserControlEditServer.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.UserControlServersList.resources
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.exe
+E:\visual studio repos\MultiWoWLauncher\obj\Release\WoWRealmListChanger.pdb
