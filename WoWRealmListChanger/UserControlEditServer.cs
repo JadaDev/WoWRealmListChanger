@@ -143,5 +143,30 @@ namespace WoWRealmListChanger
                     TxbWoWPath.Text = fbd.SelectedPath;
             }
         }
+        public class WoW
+        {
+            public static string Directory
+            {
+                get
+                {
+                    RegistryKey registryKey = Registry.LocalMachine;
+                    if (Environment.Is64BitOperatingSystem)
+                        registryKey = registryKey.OpenSubKey(@"SOFTWARE\Wow6432Node\Blizzard Entertainment\World Of Warcraft");
+                    else
+                        registryKey = registryKey.OpenSubKey(@"SOFTWARE\Blizzard Entertainment\World Of Warcraft");
+                    if (registryKey == null)
+                        return null;
+                    return Convert.ToString(registryKey.GetValue("InstallPath"));
+                }
+            }
+
+        }
+        private void DetectionWoW_Click(object sender, EventArgs e)
+        {
+            TxbWoWPath.Text = WoW.Directory;
+            string RemoveSlash = TxbWoWPath.Text.Remove(TxbWoWPath.Text.Length - 1, 1);
+            TxbWoWPath.Text = RemoveSlash;
+        }
+        
     }
 }
