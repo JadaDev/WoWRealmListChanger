@@ -41,6 +41,7 @@
             this.BtnModify = new System.Windows.Forms.Button();
             this.BtnPath = new System.Windows.Forms.Button();
             this.BtnServersList = new System.Windows.Forms.Button();
+            this.DetectionWoW = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TxbServerName
@@ -216,11 +217,28 @@
             this.BtnServersList.UseVisualStyleBackColor = false;
             this.BtnServersList.Click += new System.EventHandler(this.BtnServersList_Click);
             // 
+            // DetectionWoW
+            // 
+            this.DetectionWoW.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(120)))), ((int)(((byte)(90)))));
+            this.DetectionWoW.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.DetectionWoW.FlatAppearance.BorderSize = 0;
+            this.DetectionWoW.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DetectionWoW.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold);
+            this.DetectionWoW.ForeColor = System.Drawing.Color.White;
+            this.DetectionWoW.Location = new System.Drawing.Point(421, 183);
+            this.DetectionWoW.Name = "DetectionWoW";
+            this.DetectionWoW.Size = new System.Drawing.Size(105, 30);
+            this.DetectionWoW.TabIndex = 22;
+            this.DetectionWoW.Text = "Detect WoW";
+            this.DetectionWoW.UseVisualStyleBackColor = false;
+            this.DetectionWoW.Click += new System.EventHandler(this.DetectionWoW_Click);
+            // 
             // UserControlEditServer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(55)))));
+            this.Controls.Add(this.DetectionWoW);
             this.Controls.Add(this.BtnPath);
             this.Controls.Add(this.BtnServersList);
             this.Controls.Add(this.BtnModify);
@@ -257,5 +275,6 @@
         private System.Windows.Forms.Button BtnModify;
         private System.Windows.Forms.Button BtnServersList;
         private System.Windows.Forms.Button BtnPath;
+        private System.Windows.Forms.Button DetectionWoW;
     }
 }
